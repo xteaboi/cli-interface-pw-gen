@@ -1,0 +1,9 @@
+    .--------------------------------------------------.
+    |    HACKERMAN Utility Tool                  | [X] |
+    |.-------------------------------------------------|
+    |                                                  |
+    |   It appears you've called for the.. HACKERMAN   |
+    |   I create the safest passwords on the market.   |
+    |                                                  |
+    '--------------------------------------------------'
+
